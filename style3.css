@@ -1,0 +1,14 @@
+.p1{font-family: 'Oswald', sans-serif;}
+
+.p2{font-family: 'Tajawal', sans-serif;}
+
+.p3{font-family: 'Tajawal', sans-serif;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+color: azure;
+background-color: darkred;
+
+
+}
